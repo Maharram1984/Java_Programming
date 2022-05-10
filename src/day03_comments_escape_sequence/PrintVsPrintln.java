@@ -8,13 +8,18 @@ public class PrintVsPrintln {
         System.out.println("apples");
         System.out.println("Pears");
 
-        System.out.print("bananas ");
+        System.out.print("bananas");
         System.out.print(" orange");
+        System.out.print(" cherry\n");
 
         System.out.println();
         System.out.println("pineapple");
 
+
+
     }
+
+
 
 
 }
